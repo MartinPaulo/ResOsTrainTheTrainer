@@ -68,11 +68,15 @@ Writing to: ./Presentation/index.html
 
 ```
 
-# Instructor's notes
+Remember to always walk through your slides if you regenerate them!
 
-Check that the [etherpad](https://etherpad.wikimedia.org/p/ResOsTtT) exists. If not, recreate it using the
-downloaded [version](Etherpad/ResOsTtT.etherpad)
-Remember to always walk through your slides when you regenerate them!
+# Etherpad
+
+There is a saved [Etherpad](Etherpad/ResOsTtT.etherpad) for this course. There is also a
+[Heat template](Etherpad/heat.yaml) that will launch an instance on the NeCTAR cloud and install the Etherpad
+software on it.
+
+You can also use this template to fire up and prepare an Etherpad when actually delivering the course.
 
 # Preparation for delivering the actual course.
 
@@ -80,7 +84,7 @@ To give the lessons, you need to
 
 1. Clone the repository
 1. Update the repository submodules
-1. **Optional:** Checkout the tag you want to deliver
+1. **Optional:** Checkout the tag/branch you want to deliver
 1. **Optional:** Update the introductory slide with your name
 1. **Optional:** Regenerate the slides
 1. Open the lesson slides in your browser!
@@ -153,6 +157,7 @@ If you are going to stream people, devise and send out a pre-assessment question
 
 ## Afterwards...
 
+* If needed, send out a reminder email about the post day survey...
 * Collate the feedback. Is any of it actionable?
 * Remove users from a shared tenancy (if you had to add any)
 
@@ -160,12 +165,10 @@ If you are going to stream people, devise and send out a pre-assessment question
 
 * The software carpentry store: http://www.cafepress.com/swcarpentry
 * Log shell output to Etherpad: https://github.com/c-martinez/shellther
-* http://sciencecases.lib.buffalo.edu/cs/pdfs/Clicker%20Cases-XXXVI-2.pdf
+* Clickers: a case study: http://sciencecases.lib.buffalo.edu/cs/pdfs/Clicker%20Cases-XXXVI-2.pdf (PDF)
 
 
 # To Resolve
 
-1. [ ] As in Software Carpentry, should trainers who submit a GitHub correction get a certificate?
 1. [ ] What about a code of conduct: http://software-carpentry.org/conduct/
-1. [ ] Add a backing etherpad?
-1. [ ] Send out reminder email about the post day survey...
+1. [ ] Add a backing etherpad for the course proper?
