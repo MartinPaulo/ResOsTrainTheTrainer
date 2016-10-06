@@ -133,7 +133,9 @@ Do you have:
 The image to be used:
 
 1. [ ] Is the image named `res_os_drupal7` available and public on the NeCTAR cloud?
-1. [ ] If so, check that it works as expected. Make a snapshot so that you have a fall back image.
+1. [ ] If you use it launch an instance, then `ssh` into the instance and run `apt-get update & apt-get upgrade -y` 
+       is the behaviour acceptable?
+1. [ ] Does it bring up the web page with the kittens? Make a snapshot so that you have a fall back image.
 1. [ ] If it's not there, or doesn't work as expected, make a new image to use.
 
 Have you checked the slides are all as you expect?
