@@ -17,11 +17,8 @@ parameters:
   image_id:
     type: string
     label: Image ID
-    description: Ubuntu 16.0 image to be used for compute instance
-    default: NeCTAR Ubuntu 16.04 LTS (Xenial) amd64
-    constraints:
-      - custom_constraint: glance.image
-        description: Must be a valid Ubuntu 16.04 image
+    description: Ubuntu 16.04 image to be used for compute instance
+    default: 'd1d29eaf-c219-4f82-a588-7a8f668da4ab'
 
   instance_type:
     type: string
@@ -29,8 +26,8 @@ parameters:
     description: Type of instance (flavor) to be used
     default: m2.tiny
     constraints:
-      - custom_constraint: nova.flavor
-        description: Must be a valid NeCTAR flavour
+      - allowed_values: [m2.tiny, m2.small, m1.small, m1.medium, m1.large, m1.xlarge ]
+        description: Value must be one of m1.small, m1.medium, m1.large or m1.xlarge.
 
 
 resources:
