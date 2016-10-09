@@ -171,5 +171,4 @@ notes!
 
 # To Resolve
 
-1. [ ] What about a code of conduct: http://software-carpentry.org/conduct/
 1. [ ] Add a backing etherpad for the course proper?
