@@ -72,11 +72,9 @@ Remember to always walk through your slides if you regenerate them!
 
 # Etherpad
 
-There is a saved [Etherpad](Etherpad/ResOsTtT.etherpad) for this course. There is also a
-[Heat template](Etherpad/heat.yaml) that will launch an instance on the NeCTAR cloud and install the Etherpad
-software on it.
-
-You can also use this template to fire up and prepare an Etherpad when actually delivering the course.
+There is a [Heat template](Etherpad/nectar_etherpad.yaml) to build an Etherpad server on the NeCTAR cloud. 
+There is also an accompanying [Etherpad](Etherpad/ResOsTtT.etherpad) that can be uploaded to an Etherpad server
+if you wish to use Etherpads..
 
 # Preparation for delivering the actual course.
 
@@ -144,18 +142,19 @@ On the day:
 
 1. [ ] Each learner will need a laptop with wifi access
 1. [ ] Do you need to deal with Chromebooks? Crosh Or Chrome Shell might be needed
-1. [ ] Each learner on the course must have an AAF logon.
-1. [ ] Each learner must have an allocation on the Research Cloud that they can use.
+1. [ ] Each learner on the course must have an AAF logon
+1. [ ] Each learner must have an allocation on the Research Cloud that they can use
 
 
 On the day for those that have expired trial projects you can:
 
 1. [ ] get them to pair up with others
 1. [ ] have a special tenancy for the lesson, and then add them to it on the fly.
-  This may not a great solution as people in the tenancy will step on each others toes. But is has worked for us.
+  This may not a great solution as people in the tenancy will step on each others toes. But is has worked for us
 1. [ ] have someone on hand to extend their trial tenancies on the spot?
 
-If you are going to stream people, devise and send out a pre-assessment questionnaire. We'd love a copy!
+If you are going to stream people, devise and send out a pre-assessment questionnaire. We'd love a copy to add to these
+notes!
 
 ## Afterwards...
 
