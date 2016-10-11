@@ -167,8 +167,3 @@ notes!
 * The software carpentry store: http://www.cafepress.com/swcarpentry
 * Log shell output to Etherpad: https://github.com/c-martinez/shellther
 * Clickers: a case study: http://sciencecases.lib.buffalo.edu/cs/pdfs/Clicker%20Cases-XXXVI-2.pdf (PDF)
-
-
-# To Resolve
-
-1. [ ] Add a backing etherpad for the course proper?
