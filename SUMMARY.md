@@ -9,5 +9,5 @@
 * [Practical](Booklet/060.Practical.md)
 * [Feedback](Booklet/070.Feedback.md)
 * [Preparing to present](Booklet/080.Preparing.md)
-* [How learning works](Booklet/090.Learning.md)
 * [How to contribute changes back to the course](Booklet/100.Contribute.md)
+* [Coming soon](Booklet/110.OddsAndSods.md)
