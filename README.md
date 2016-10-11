@@ -73,7 +73,7 @@ Remember to always walk through your slides if you regenerate them!
 # Etherpad
 
 There is a [Heat template](Etherpad/nectar_etherpad.yaml) to build an Etherpad server on the NeCTAR cloud. 
-There is also an accompanying [Etherpad](Etherpad/ResOsTtT.etherpad) that can be uploaded to an Etherpad server
+There is also an accompanying [Etherpad](Etherpad/ResOsTtT.html) that can be uploaded to an Etherpad server
 if you wish to use Etherpads..
 
 # Preparation for delivering the actual course.
