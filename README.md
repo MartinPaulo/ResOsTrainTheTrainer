@@ -89,7 +89,7 @@ To give the lessons, you need to
 
 So, you, the presenter, will need to:
 
-1. [ ] Have an AAF account
+1. [ ] Have an [AAF](https://aaf.edu.au/) account
 1. [ ] Have checked the training material out of GitHub
 1. [ ] Have a terminal of some kind that you can ssh into instances with
 
